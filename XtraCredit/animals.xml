@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="XtraCredit.Encounters">
+    <void property="bird">
+     <int>13</int>
+    </void>
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1063602000000</long>
+     </object>
+    </void>
+    <void property="dog">
+     <int>4</int>
+    </void>
+    <void property="squirel">
+     <int>5</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="XtraCredit.Encounters">
+    <void property="bird">
+     <int>16</int>
+    </void>
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1063688400000</long>
+     </object>
+    </void>
+    <void property="dog">
+     <int>5</int>
+    </void>
+    <void property="squirel">
+     <int>6</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

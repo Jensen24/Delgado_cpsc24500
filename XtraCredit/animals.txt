@@ -1,0 +1,2 @@
+09/15/2003	Birds: 13	Dogs: 4	Squirrels: 5
+09/16/2003	Birds: 16	Dogs: 5	Squirrels: 6
